@@ -1,8 +1,8 @@
 # 🖼️ Interactive Image Gallery
 
-A fully responsive and interactive image gallery built using **HTML**, **CSS**, and **JavaScript**, completed as part of the **CodeAlpha Frontend Development Internship**.
+A fully interactive image gallery built using **HTML**, **CSS**, and **JavaScript**, completed as part of the **CodeAlpha Frontend Development Internship**.
 
-![Gallery Screenshot](Gallery_screenshot_1.png) , (Gallery_screenshot_2.png)
+![Gallery Screenshot](Gallery_screenshot_1.png)
 
 ---
 
@@ -11,7 +11,6 @@ A fully responsive and interactive image gallery built using **HTML**, **CSS**, 
 - 📸 Display of high-quality images using Flexbox
 - 🔍 Image preview in fullscreen overlay
 - ❌ Easy-to-use close functionality (via button or overlay click)
-- 💻 Fully responsive layout for mobile, tablet, and desktop
 - 🎨 Smooth transitions and hover effects
 
 ---
@@ -19,7 +18,7 @@ A fully responsive and interactive image gallery built using **HTML**, **CSS**, 
 ## 🛠️ Tech Stack
 
 - **HTML5**
-- **CSS3** (Flexbox, transitions, responsive design)
+- **CSS3** (Flexbox, transitions)
 - **Vanilla JavaScript** (DOM events and manipulation)
 
 ---
@@ -30,7 +29,8 @@ gallery-project/
 ├── index.html
 ├── style.css
 ├── script.js
-├── screenshot.png ← (optional, for GitHub preview)
+├── Gallery_screenshot1.png
+├── Gallery_screenshot2.png
 └── README.md
 ---
 
@@ -46,7 +46,7 @@ gallery-project/
 
 Through this project, I improved:
 - My **DOM manipulation** skills in JavaScript.
-- My understanding of **responsive design** using **Flexbox**.
+- My understanding of **design layouts** using **Flexbox**.
 - The use of **JavaScript events** to create interactive features.
 
 ---
@@ -66,4 +66,3 @@ This project was completed as a task under the **CodeAlpha Frontend Development 
 
 ---
 
-⭐️ **If you like this project, give it a star!**
